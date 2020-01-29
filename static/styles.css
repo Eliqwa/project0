@@ -1,3 +1,8 @@
+#a {
+  list-style-type: circle;
+  text-align: center;
+}
+
 body {
   margin: 0;
 }
